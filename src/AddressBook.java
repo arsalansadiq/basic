@@ -16,6 +16,9 @@ import java.util.ArrayList;
 				buddyInfo.remove(index);
 			}
 		}
+		public static void main(String[] args) {
+			System.out.println("AddressBook");;
+		}
 		
 		
 		
