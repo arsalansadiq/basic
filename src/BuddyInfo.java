@@ -1,4 +1,4 @@
-import java.util.*;
+
 
 public class BuddyInfo {
 	private String name;
@@ -37,8 +37,8 @@ public class BuddyInfo {
 	}
 
 	public static void main(String[] args) {
-		BuddyInfo buddy = new BuddyInfo("Homer","Newadress","123456");
-		buddy.setName("Homer");
+		BuddyInfo buddy = new BuddyInfo("Arsii","Address1","6476475177");
+		
 		// TODO Auto-generated method stub
 		System.out.println("Hello "+ buddy.getName());
 	}
